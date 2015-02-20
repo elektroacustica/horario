@@ -1,0 +1,46 @@
+Rutas
+
+Rutas para docentes
+
+/
+*
+*	Detalle de todos los docentes
+*	/docententes
+*
+*	Crear un nuevo docente
+*	/docente-create
+*
+*	Actualizar informacion de un docente a travez de una url dinamica
+*	escribir docente seguido del simbolo slash seguido de clave identificadora
+*	del docente seguido del simbolo slash y la palabra edit
+*	/docente/1/edit
+*
+*	Actualizar informacion de un docente a travez de una url dinamica
+*	escribir docente seguido del simbolo slash seguido de clave identificadora
+*	del docente seguido del simbolo slash y la palabra edit
+*	/docente/{id}
+*
+/
+
+Rutas para Materias
+
+/
+*
+*	Detalle de todos los materias
+*	/materias
+*
+*	Crear una materia
+*	/materia-create
+*
+*	Actualizar informacion de una materia a travez de una url dinamica
+*	escribir materia seguido del simbolo slash seguido de clave identificadora
+*	de la materia seguido del simbolo slash y la palabra edit
+*	/materia/{id}/edit
+*	
+*
+*	Eliminar informacion de una materia a travez de una url dinamica
+*	escribir materia seguido del simbolo slash seguido de clave identificadora
+*	de la materia seguido del simbolo slash y la palabra edit
+*	/materia/{id}
+*
+/
